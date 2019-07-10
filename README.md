@@ -7,6 +7,7 @@ Mostly Python-oriented
 * [Python Cheatsheet](https://www.pythonsheets.com/)
 * [Dan's Cheat Sheets](https://cheat.readthedocs.io/en/latest/python/index.html)
 * [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
+* [Python 3 Module of the Week](https://pymotw.com/3/)
 * [`cachetools` — Extensible memoizing collections and decorators](https://cachetools.readthedocs.io/en/latest/)
 * [`boltons` — utilities missing from batteries](https://boltons.readthedocs.io/en/latest/)
 
