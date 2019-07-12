@@ -10,6 +10,7 @@ Mostly Python-oriented
 * [Python 3 Module of the Week](https://pymotw.com/3/)
 * [`cachetools` — Extensible memoizing collections and decorators](https://cachetools.readthedocs.io/en/latest/)
 * [`boltons` — utilities missing from batteries](https://boltons.readthedocs.io/en/latest/)
+* [Python IDE hints](python_ide_hints.md) (local)
 
 ## Style
 
