@@ -35,6 +35,7 @@ Mostly Python-oriented
 ## asyncio
 
 * [`aiohttp`](https://aiohttp.readthedocs.io/en/stable/)
+* [Unit Testing AsyncIO Code](https://blog.miguelgrinberg.com/post/unit-testing-asyncio-code)
 
 ## Web
 
