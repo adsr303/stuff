@@ -38,6 +38,10 @@ Mostly Python-oriented
 * [`asyncache`](https://github.com/hephex/asyncache) — helpers to use `cachetools` with `asyncio`
 * [Unit Testing AsyncIO Code](https://blog.miguelgrinberg.com/post/unit-testing-asyncio-code)
 
+## Graphs and plotting
+
+* [NetworX](https://github.com/networkx/networkx)
+
 ## Web
 
 ## UI
