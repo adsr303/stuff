@@ -1,8 +1,7 @@
 # Linux shell fun
 
-Browse POSIX manpages:
+Browse manpages with preview:
 
 ```sh
-whatis -s 1posix -w '*' | sed 's/ (1posix)//' |
-  fzf --preview='echo {} | cut -f 1 | xargs -l man 1posix 2>/dev/null'
+whatis -w '*' | fzf --preview='xargs -I {} -l man {1}{2} 2>/dev/null'
 ```
